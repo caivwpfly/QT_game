@@ -7,3 +7,5 @@ qmake -project
 qmake QT_game
 make
 ./release/QT_game
+### te
+s
